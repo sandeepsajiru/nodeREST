@@ -1,0 +1,26 @@
+{
+  "name": "noderest",
+  "version": "1.0.0",
+  "description": "RESTful API with Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepsajiru/nodeREST.git"
+  },
+  "keywords": [
+    "REST",
+    "NodeJS"
+  ],
+  "author": "BeingZero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandeepsajiru/nodeREST/issues"
+  },
+  "homepage": "https://github.com/sandeepsajiru/nodeREST#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
